@@ -1,0 +1,253 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
+  <diagram name="Page-1" id="jQZcd1Su21sFAnX82tBg">
+    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-4" value="Passief publiceren proces" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="490" y="320" width="520" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-17" value="Woo publicatie" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=product;archiType=square;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="320" y="170" width="690" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-1" value="Inwoner gemeente" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" parent="1" vertex="1">
+          <mxGeometry x="330" y="40" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-2" value="Burger" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;" parent="1" vertex="1">
+          <mxGeometry x="503" y="40" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bAtHzzNT9RxtK-DSMaf8-3" target="bAtHzzNT9RxtK-DSMaf8-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-3" value="Aanvraag indienen" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;" parent="1" vertex="1">
+          <mxGeometry x="330" y="347" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-9" value="" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="bAtHzzNT9RxtK-DSMaf8-1" target="bAtHzzNT9RxtK-DSMaf8-2" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="900" y="360" as="sourcePoint" />
+            <mxPoint x="1060" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-15" value="Openbaar document" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.businessObject;overflow=fill;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="340" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-19" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:20px;&quot;&gt;&lt;td align=&quot;center&quot;&gt;Aanvraag&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;top&quot; style=&quot;padding:4px;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.businessObject;overflow=fill;" parent="1" vertex="1">
+          <mxGeometry x="330" y="195" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-5" value="Registratie service" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;" parent="1" vertex="1">
+          <mxGeometry x="500" y="195" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-6" value="Afhandel service" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;" parent="1" vertex="1">
+          <mxGeometry x="675" y="195" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-7" value="Publicatie service" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;" parent="1" vertex="1">
+          <mxGeometry x="850" y="195" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-20" value="Aanvraag registreren" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" parent="1" vertex="1">
+          <mxGeometry x="500" y="347" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-23" value="Aanvraag afhandelen" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" parent="1" vertex="1">
+          <mxGeometry x="675" y="347" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-24" value="Document publiceren" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" parent="1" vertex="1">
+          <mxGeometry x="850" y="347" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-14" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=0;elbow=vertical;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bAtHzzNT9RxtK-DSMaf8-23" target="bAtHzzNT9RxtK-DSMaf8-24" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="210" as="sourcePoint" />
+            <mxPoint x="660" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-11" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=0;elbow=vertical;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bAtHzzNT9RxtK-DSMaf8-20" target="bAtHzzNT9RxtK-DSMaf8-23" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="210" as="sourcePoint" />
+            <mxPoint x="660" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-26" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=0;dashed=1;dashPattern=1 4;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bAtHzzNT9RxtK-DSMaf8-24" target="bAtHzzNT9RxtK-DSMaf8-15" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="520" y="200" as="sourcePoint" />
+            <mxPoint x="1070" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-27" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="bAtHzzNT9RxtK-DSMaf8-20" target="bAtHzzNT9RxtK-DSMaf8-5" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="520" y="200" as="sourcePoint" />
+            <mxPoint x="680" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-28" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bAtHzzNT9RxtK-DSMaf8-23" target="bAtHzzNT9RxtK-DSMaf8-6" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="520" y="200" as="sourcePoint" />
+            <mxPoint x="680" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-29" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bAtHzzNT9RxtK-DSMaf8-24" target="bAtHzzNT9RxtK-DSMaf8-7" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="520" y="200" as="sourcePoint" />
+            <mxPoint x="680" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-30" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="bAtHzzNT9RxtK-DSMaf8-17" target="bAtHzzNT9RxtK-DSMaf8-2" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="520" y="200" as="sourcePoint" />
+            <mxPoint x="680" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-31" value="Medewerker gemeente" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" parent="1" vertex="1">
+          <mxGeometry x="850" y="40" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-32" value="Gemeente" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;" parent="1" vertex="1">
+          <mxGeometry x="677" y="40" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-33" value="" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bAtHzzNT9RxtK-DSMaf8-31" target="bAtHzzNT9RxtK-DSMaf8-32" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="520" y="200" as="sourcePoint" />
+            <mxPoint x="680" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-34" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="bAtHzzNT9RxtK-DSMaf8-17" target="bAtHzzNT9RxtK-DSMaf8-32" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="520" y="200" as="sourcePoint" />
+            <mxPoint x="680" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-35" value="Business layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-36" value="Actor, active" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=6" parent="1" vertex="1">
+          <mxGeometry x="330" y="40" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-37" value="&lt;div&gt;Role, active&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=6" parent="1" vertex="1">
+          <mxGeometry x="503" y="40" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-38" value="Service, behavior" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=6" parent="1" vertex="1">
+          <mxGeometry x="500" y="195" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-39" value="Service, behavior" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=6" parent="1" vertex="1">
+          <mxGeometry x="675" y="195" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-40" value="Service, behavior" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=6" parent="1" vertex="1">
+          <mxGeometry x="850" y="195" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-41" value="Actor, active" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=6" parent="1" vertex="1">
+          <mxGeometry x="677" y="40" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-42" value="&lt;div&gt;Role, active&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=6" parent="1" vertex="1">
+          <mxGeometry x="850" y="40" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-43" value="Function, behavior" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=6" parent="1" vertex="1">
+          <mxGeometry x="500" y="347" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-44" value="Function, behavior" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=6" parent="1" vertex="1">
+          <mxGeometry x="675" y="347" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-45" value="Function, behavior" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=6" parent="1" vertex="1">
+          <mxGeometry x="850" y="347" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-46" value="Event, behavior" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=6" parent="1" vertex="1">
+          <mxGeometry x="329.5" y="347" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-47" value="Serving" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=6" parent="1" vertex="1">
+          <mxGeometry x="762" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-48" value="Realization" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=6" parent="1" vertex="1">
+          <mxGeometry x="930" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-49" value="Product" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=6" parent="1" vertex="1">
+          <mxGeometry x="320" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-50" value="Business process" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=6" parent="1" vertex="1">
+          <mxGeometry x="490" y="320" width="520" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-51" value="User interface" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="470" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-52" value="Aanvraag CRUD" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" parent="1" vertex="1">
+          <mxGeometry x="675" y="470" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-57" value="Publiceren" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" parent="1" vertex="1">
+          <mxGeometry x="300" y="460" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-58" value="" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bAtHzzNT9RxtK-DSMaf8-51" target="bAtHzzNT9RxtK-DSMaf8-52" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="595" y="350" as="sourcePoint" />
+            <mxPoint x="755" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-61" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="355" y="610" width="790" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-60" value="Application Function" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;verticalAlign=top;" parent="bAtHzzNT9RxtK-DSMaf8-61" vertex="1">
+          <mxGeometry width="790" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-53" value="Aanvraag indienen" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" parent="bAtHzzNT9RxtK-DSMaf8-61" vertex="1">
+          <mxGeometry x="10" y="35" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-54" value="Aanvraag beoordelen" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" parent="bAtHzzNT9RxtK-DSMaf8-61" vertex="1">
+          <mxGeometry x="213" y="35" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-55" value="Aanvraag accepteren" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" parent="bAtHzzNT9RxtK-DSMaf8-61" vertex="1">
+          <mxGeometry x="420" y="35" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-56" value="Aanvraag afwijzen" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" parent="bAtHzzNT9RxtK-DSMaf8-61" vertex="1">
+          <mxGeometry x="630" y="35" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-66" value="Function, behavior" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=6" parent="bAtHzzNT9RxtK-DSMaf8-61" vertex="1">
+          <mxGeometry x="10" y="35" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-67" value="Function, behavior" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=6" parent="bAtHzzNT9RxtK-DSMaf8-61" vertex="1">
+          <mxGeometry x="213" y="35" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-68" value="Function, behavior" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=6" parent="bAtHzzNT9RxtK-DSMaf8-61" vertex="1">
+          <mxGeometry x="420" y="35" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-69" value="Function, behavior" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=6" parent="bAtHzzNT9RxtK-DSMaf8-61" vertex="1">
+          <mxGeometry x="630" y="35" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-62" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bAtHzzNT9RxtK-DSMaf8-60" target="bAtHzzNT9RxtK-DSMaf8-52" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="400" as="sourcePoint" />
+            <mxPoint x="810" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-63" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bAtHzzNT9RxtK-DSMaf8-20" target="bAtHzzNT9RxtK-DSMaf8-52" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="400" as="sourcePoint" />
+            <mxPoint x="810" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-64" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bAtHzzNT9RxtK-DSMaf8-23" target="bAtHzzNT9RxtK-DSMaf8-52" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="400" as="sourcePoint" />
+            <mxPoint x="810" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-65" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="bAtHzzNT9RxtK-DSMaf8-52" target="bAtHzzNT9RxtK-DSMaf8-24" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="400" as="sourcePoint" />
+            <mxPoint x="810" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-70" value="ESB" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="630" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-72" value="Metadata repository" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" parent="1" vertex="1">
+          <mxGeometry x="1430" y="644" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-73" value="Zaaksysteem" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="790" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAtHzzNT9RxtK-DSMaf8-74" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bAtHzzNT9RxtK-DSMaf8-70" target="bAtHzzNT9RxtK-DSMaf8-60" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="800" y="550" as="sourcePoint" />
+            <mxPoint x="1190" y="610" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
