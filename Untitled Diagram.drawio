@@ -86,19 +86,58 @@
           <mxGeometry x="380" y="475" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="eNobzMMhauN4BnxFjJXC-24" value="Signaal afhandelen" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
-          <mxGeometry x="610" y="475" width="150" height="75" as="geometry" />
+          <mxGeometry x="620" y="420" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="eNobzMMhauN4BnxFjJXC-25" value="Signaal doorzetten" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
-          <mxGeometry x="840" y="475" width="150" height="75" as="geometry" />
+          <mxGeometry x="620" y="540" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="eNobzMMhauN4BnxFjJXC-27" value="Signaal inzien" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
           <mxGeometry x="1030" y="475" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="eNobzMMhauN4BnxFjJXC-28" value="MOON" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="330" y="960" width="150" height="75" as="geometry" />
+          <mxGeometry x="1100" y="970" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="eNobzMMhauN4BnxFjJXC-29" value="Django" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
           <mxGeometry x="860" y="960" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="eNobzMMhauN4BnxFjJXC-30" value="" style="ellipse;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;fillColor=#ffffff" vertex="1" parent="1">
+          <mxGeometry x="570" y="505" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eNobzMMhauN4BnxFjJXC-31" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eNobzMMhauN4BnxFjJXC-23" target="eNobzMMhauN4BnxFjJXC-30">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="770" y="740" as="sourcePoint" />
+            <mxPoint x="570" y="513" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eNobzMMhauN4BnxFjJXC-33" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=0;elbow=vertical;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eNobzMMhauN4BnxFjJXC-30" target="eNobzMMhauN4BnxFjJXC-24">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="770" y="750" as="sourcePoint" />
+            <mxPoint x="930" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eNobzMMhauN4BnxFjJXC-34" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=0;elbow=vertical;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="eNobzMMhauN4BnxFjJXC-25">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="580" y="510" as="sourcePoint" />
+            <mxPoint x="930" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eNobzMMhauN4BnxFjJXC-35" value="" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eNobzMMhauN4BnxFjJXC-29" target="eNobzMMhauN4BnxFjJXC-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="770" y="690" as="sourcePoint" />
+            <mxPoint x="930" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eNobzMMhauN4BnxFjJXC-37" value="MOON koppeling" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="970" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="eNobzMMhauN4BnxFjJXC-38" value="Signaal" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=passive;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="370" y="960" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="eNobzMMhauN4BnxFjJXC-39" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=0;dashed=1;dashPattern=1 4;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eNobzMMhauN4BnxFjJXC-14" target="eNobzMMhauN4BnxFjJXC-38">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="770" y="780" as="sourcePoint" />
+            <mxPoint x="930" y="780" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
